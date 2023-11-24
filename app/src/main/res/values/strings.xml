@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">examenFinal</string>
+
+
+    <string name="btnOperacion">Realizar Operaciónes</string>
+
+
+    <string name="fondo_de_empresa">Fondo de empresa</string>
+</resources>

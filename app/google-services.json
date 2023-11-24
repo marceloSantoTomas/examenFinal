@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923055143355",
+    "project_id": "appfirebaseinventario",
+    "storage_bucket": "appfirebaseinventario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923055143355:android:36d86b9ca37396a618ec9e",
+        "android_client_info": {
+          "package_name": "com.example.examenfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYTm8ikGgrHJCabCc_tjK7T9XnJp2xp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
